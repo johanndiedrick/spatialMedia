@@ -1,0 +1,320 @@
+TgraphicsProgramming
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Info.plist" platform/main.plist
+cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming" normal i386
+cCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/en.strings" graphicsProgramming/../platform/en.strings
+cCpResource platform/main.pch build/Debug/graphicsProgramming.app/Contents/Resources/main.pch
+cCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib"
+cTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app"
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E7AD70B00000000000000EE
+t1316673291
+s238
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Info.plist
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/en.strings
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/main.nib
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/main.pch
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgramming.LinkFileList
+c000000004F3858F20000000000000422
+t1329092850
+s1058
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm
+c000000004F278E7D0000000000001E1D
+t1327992445
+s7709
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/en.strings
+c000000004F278E7D000000000000002D
+t1327992445
+s45
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m
+c000000004F278E7D0000000000000077
+t1327992445
+s119
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib
+c000000004F278E7D0000000000006176
+t1327992445
+s24950
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm
+c000000004F278E7D00000000000012F4
+t1327992445
+s4852
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp
+c000000004F278E7D00000000000001A8
+t1327992445
+s424
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp
+c000000004F2AC3FD00000000000011C9
+t1328202749
+s4553
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/platform/main.pch
+c000000004F278E7D0000000000000000
+t1327992445
+s0
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth
+t2
+s0
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth
+t2
+s0
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth
+t2
+s0
+
+Nplatform/main.plist
+c000000004F278E7D00000000000003E2
+t1327992445
+s994
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese7a7f47190e8b441^e5441f7290e8b441^---0#1#0#--18"Check dependencies36"57F00389-8BA0-4E29-A8F0-A271729A5B2A-
+
+CCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785661.020790
+e350785664.090600
+r1
+xCompileC
+xbuild/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp5473057d90e8b441^9430178090e8b441^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp0000000000000000^3518"CompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o graphicsProgramming/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/AppConfig.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppConfig.o"36"450051DA-15A9-4E7B-800C-961524DCCDA2-
+
+CCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785650.172965
+e350785657.222767
+r1
+xCompileC
+xbuild/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm9c6b2c7290e8b441^19c6397990e8b441^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm0000000000000000^3746"CompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o graphicsProgramming/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/AppDelegate.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/AppDelegate.o"36"E5ACAD5C-112E-4894-86A7-BFAAF56F81FE-
+
+CCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785657.236793
+e350785661.019340
+r1
+xCompileC
+xbuild/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp7731417990e8b441^d0f2047d90e8b441^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp0000000000000000^3583"CompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o graphicsProgramming/graphicsProgrammingApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/graphicsProgrammingApp.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgrammingApp.o"36"555C261C-0034-4A42-B183-8A62B99BCFB3-
+
+CCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350785650.192027
+e350785651.532902
+r1
+xCompileC
+xbuild/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m384b317290e8b441^d579887390e8b441^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/../platform/main.m0000000000000000^3645"CompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o graphicsProgramming/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/main.o"36"EB814151-A248-4D6B-BF1A-358C4C334FDE-
+
+CCompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785651.534252
+e350785657.622054
+r1
+xCompileC
+xbuild/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mmb8e8887390e8b441^cf499f7990e8b441^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm0000000000000000^3751"CompileC build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o graphicsProgramming/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/poOpenGLView.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/poOpenGLView.o"36"279EEC7A-2E1E-4B59-B591-142950E2F50E-
+
+CCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib"
+s350785665.328168
+e350785669.301452
+r1
+xCompileXIB
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Compiling /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xibc614548190e8b441^04384d8590e8b441^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib0000000000000000^710"CompileXIB graphicsProgramming/../platform/main.xib    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/main.nib" "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/graphicsProgramming/../platform/main.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"D7509C65-9D4D-477A-8F34-F643ED0E6061-
+
+CCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/en.strings" graphicsProgramming/../platform/en.strings
+s350785665.323102
+e350785665.425997
+r1
+xCopyStringsFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/en.strings
+xgraphicsProgramming/../platform/en.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy graphicsProgramming/../platform/en.strings15ca528190e8b441^a20c6d8190e8b441^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/graphicsProgramming/../platform/en.strings0000000000000000^553"CopyStringsFile build/Debug/graphicsProgramming.app/Contents/Resources/en.strings graphicsProgramming/../platform/en.strings    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources" -- graphicsProgramming/../platform/en.strings36"E4C84472-0DF1-489A-9EED-80BE9117579D-
+
+CCpResource platform/main.pch build/Debug/graphicsProgramming.app/Contents/Resources/main.pch
+s350785665.323605
+e350785665.326858
+r1
+xCpResource
+xplatform/main.pch
+xbuild/Debug/graphicsProgramming.app/Contents/Resources/main.pch
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/graphicsProgramming.app/Contents/Resources/main.pch04e5528190e8b441^b0ad538190e8b441^---0#0#0#-19%DVTDocumentLocation2@196"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources/main.pch00f43c07dfffdf42^630"CpResource platform/main.pch build/Debug/graphicsProgramming.app/Contents/Resources/main.pch    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/platform/main.pch" "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Resources"36"44D13530-F9F8-4773-8DE0-445E9648F2E3-
+
+CLd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming" normal i386
+s350785664.097856
+e350785665.313931
+r1
+xLd
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming
+xnormal
+xi386
+old: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection188"Link /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming2924198090e8b441^f46e508190e8b441^-283"ld: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.1(21%IDEActivityLogMessage2@269"Direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-350785664#0#283#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1217"Ld build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming normal i386    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -L/pocode/libraries/pocode "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -filelist "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/Objects-normal/i386/graphicsProgramming.LinkFileList" -mmacosx-version-min=10.6 -lpocode_d /usr/lib/libsqlite3.0.dylib -framework Cocoa -framework ApplicationServices -framework OpenGL -framework CoreVideo -framework QTKit -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/MacOS/graphicsProgramming"36"C637CFC3-3D02-408E-BCCA-F7009DDA6465-
+
+CProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Info.plist" platform/main.plist
+s350785650.130748
+e350785650.135766
+r1
+xProcessInfoPlistFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Info.plist
+xplatform/main.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Process platform/main.plist228a217290e8b441^16c2227290e8b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/platform/main.plist0000000000000000^660"ProcessInfoPlistFile build/Debug/graphicsProgramming.app/Contents/Info.plist platform/main.plist    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    builtin-infoPlistUtility platform/main.plist -genpkginfo "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app/Contents/Info.plist"36"BF96B50F-5690-40B4-95F9-54EBB628E9D0-
+
+CProcessPCH /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/graphicsProgramming-dzinzbsonwmlkvgmklidmarfwxwn/Index/PrecompiledHeaders/main-emhwbyfmblbepyfytejyjhxnwbqv_ast/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350785650.144808
+e350785650.166559
+r1
+xProcessPCH
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pche659257290e8b441^45bb2a7290e8b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/platform/main.pch0000000000000000^3384"ProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzqqgawouedleagztynmxmsauvkv/main.pch.d36"0620BA18-9689-4AE9-BA90-200DE6B8FDA8-
+
+CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/graphicsProgramming-dzinzbsonwmlkvgmklidmarfwxwn/Index/PrecompiledHeaders/main-csagrcodwytsizchvhtolbmkwjcy_ast/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/graphicsProgramming-dzinzbsonwmlkvgmklidmarfwxwn/Index/PrecompiledHeaders/main-fkdhfksesjvrrjdphscvkeeytjnp_ast/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785650.167958
+e350785650.190692
+r1
+xProcessPCH++
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch581f2b7290e8b441^ddd0307290e8b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/platform/main.pch0000000000000000^3254"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-bzfpfmyxfeckulfcriunsvoikmmp/main.pch.d36"2589801A-3B75-4EFC-A6EB-9ED3C984D092-
+
+CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s350785650.144394
+e350785650.166543
+r1
+xProcessPCH++
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch6e18257290e8b441^14b32a7290e8b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Graphics%20Programming/graphicsProgramming/platform/main.pch0000000000000000^3450"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/graphicsProgramming-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/graphicsProgramming.build/Debug/graphicsProgramming.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ddocletlwdvtbmbwvfxzvvlkfdnv/main.pch.d36"BCD08E27-8004-476E-BF92-233A45ED96CF-
+
+CTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app"
+s350785669.311011
+e350785669.318474
+r1
+xTouch
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Touch /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app9eb54f8590e8b441^5392518590e8b441^---0#0#0#--337"Touch build/Debug/graphicsProgramming.app    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming"    /usr/bin/touch -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Graphics Programming/graphicsProgramming/build/Debug/graphicsProgramming.app"36"5121490B-87A2-41C9-B41F-85090A51CFE6-
+
