@@ -1,0 +1,310 @@
+TseedFill
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Info.plist" platform/main.plist
+cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E7AD70B00000000000000EE
+t1316673291
+s238
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Info.plist
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/MacOS/seedFill
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Resources/en.strings
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Resources/main.nib
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Resources/main.pch
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFill.LinkFileList
+c000000004F402C9000000000000003F0
+t1329605776
+s1008
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/smImage.o
+t2
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/platform/main.pch
+c000000004F4025E80000000000000000
+t1329604072
+s0
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm
+c000000004F4025E80000000000001E1D
+t1329604072
+s7709
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/en.strings
+c000000004F4025E8000000000000002D
+t1329604072
+s45
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m
+c000000004F4025E80000000000000077
+t1329604072
+s119
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.xib
+c000000004F4025E80000000000006176
+t1329604072
+s24950
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm
+c000000004F4025E800000000000012F4
+t1329604072
+s4852
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp
+c000000004F4025E80000000000000187
+t1329604072
+s391
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp
+c000000004F402C8F00000000000003B1
+t1329605775
+s945
+
+N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/smImage.cpp
+c000000004F402C900000000000000893
+t1329605776
+s2195
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth
+t2
+s0
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth
+t2
+s0
+
+N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth
+t2
+s0
+
+Nplatform/main.plist
+c000000004F4025E800000000000003E2
+t1329604072
+s994
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp"
+r0
+
+CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/smImage.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4562761064f0b441^679e8c1064f0b441^---0#1#0#--18"Check dependencies36"F5976FC8-802E-4C6C-A5BA-71FDC736A620-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298586.730710
+e351298590.056529
+r1
+xCompileC
+xbuild/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp0133bb1a64f0b441^ff790e1e64f0b441^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/AppConfig.cpp0000000000000000^3026"CompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o seedFill/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/AppConfig.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppConfig.o"36"37BEA9AB-4C0B-4B5A-BDF6-337ACB79BF86-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298578.366957
+e351298585.264132
+r1
+xCompileC
+xbuild/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mmf31b5e1264f0b441^fa9c431964f0b441^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/../platform/AppDelegate.mm0000000000000000^3254"CompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o seedFill/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/AppDelegate.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/AppDelegate.o"36"7BF91EC9-395D-4D56-8BCE-461223E90C4F-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351298577.797575
+e351298582.042192
+r1
+xCompileC
+xbuild/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.mb14fcc1164f0b441^60cc0a1664f0b441^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/../platform/main.m0000000000000000^3153"CompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o seedFill/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/main.o"36"63FFADFB-F792-49BE-A037-A9BDC25186EF-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298582.043560
+e351298586.729390
+r1
+xCompileC
+xbuild/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm6f480b1664f0b441^84b8ba1a64f0b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/../platform/poOpenGLView.mm0000000000000000^3259"CompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o seedFill/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/poOpenGLView.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/poOpenGLView.o"36"3A487875-9EFF-41C2-8193-30B1725538E5-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298585.265527
+e351298588.442259
+r0
+xCompileC
+xbuild/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:14:5: error: use of undeclared identifier 'myImage1' [3]
+o     myImage1 = new smImage("flood_fill_test_01.raw", 320, 240);
+o     ^
+o/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:14:20: error: expected a type [1]
+o     myImage1 = new smImage("flood_fill_test_01.raw", 320, 240);
+o                    ^
+o/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:29:5: error: use of undeclared identifier 'myImage1' [3]
+o     myImage1->fastDraw(100,50);
+o     ^
+o3 errors generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp081d441964f0b441^3e23711c64f0b441^-724"/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:14:5: error: use of undeclared identifier 'myImage1' [3]     myImage1 = new smImage("flood_fill_test_01.raw", 320, 240);     ^/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:14:20: error: expected a type [1]     myImage1 = new smImage("flood_fill_test_01.raw", 320, 240);                    ^/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp:29:5: error: use of undeclared identifier 'myImage1' [3]     myImage1->fastDraw(100,50);     ^3 errors generated.3(21%IDEActivityLogMessage2@39"Use of undeclared identifier 'myImage1'-351298588#0#176#-2#-23%DVTTextDocumentLocation3@138"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/seedFillApp.cpp0000000000000000^13#4#13#4#18446744073709551615#0#14"Semantic Issue--2@15"Expected a type-351298588#248#153#-2#-3@138"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/seedFillApp.cpp0000000000000000^13#19#13#19#18446744073709551615#0#11"Parse Issue--2@39"Use of undeclared identifier 'myImage1'-351298588#488#176#-2#-3@138"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/seedFillApp.cpp0000000000000000^28#4#28#4#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@138"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/seedFill/seedFillApp.cpp0000000000000000^3036"CompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o seedFill/seedFillApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/seedFillApp.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/seedFillApp.o"36"E0C8A6E8-A904-4E70-A472-EBF182798096-
+
+CCompileC build/seedFill.build/Debug/seedFill.build/Objects-normal/i386/smImage.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/smImage.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/seedFill/../platform/main.xib"
+r0
+
+CCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Resources/en.strings" seedFill/../platform/en.strings
+r0
+
+CCpResource platform/main.pch build/Debug/seedFill.app/Contents/Resources/main.pch
+r0
+
+CLd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/MacOS/seedFill" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Info.plist" platform/main.plist
+s351298576.671741
+e351298576.684583
+r1
+xProcessInfoPlistFile
+x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Info.plist
+xplatform/main.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Process platform/main.plist8465ac1064f0b441^37aaaf1064f0b441^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/platform/main.plist0000000000000000^570"ProcessInfoPlistFile build/Debug/seedFill.app/Contents/Info.plist platform/main.plist    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    builtin-infoPlistUtility platform/main.plist -genpkginfo "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app/Contents/Info.plist"36"068AF123-40F4-4840-B61A-4024F3C78914-
+
+CProcessPCH /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/seedFill-cjjkaavyxguvmifuoigiyheoodmu/Index/PrecompiledHeaders/main-cbwkvopkagatambxdlmydluoqbxp_ast/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351298576.698703
+e351298577.764104
+r1
+xProcessPCH
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch0dfeb21064f0b441^a7afc31164f0b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/platform/main.pch0000000000000000^3018"ProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-crkihiwscnjybvgemabatxatcsgh/main.pch.d36"5A7587BD-46B0-4967-862C-AF99EE331A68-
+
+CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/seedFill-cjjkaavyxguvmifuoigiyheoodmu/Index/PrecompiledHeaders/main-dkhcrscqbzianrdoiatfjniyrfxq_ast/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/seedFill-cjjkaavyxguvmifuoigiyheoodmu/Index/PrecompiledHeaders/main-fttwkggzatcsaqekqmbwhxfnwyqb_ast/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298576.697451
+e351298577.796220
+r1
+xProcessPCH++
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch75c7b21064f0b441^4feacb1164f0b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/platform/main.pch0000000000000000^3084"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-gqsnwbzhloitfzcciqhnijquxesz/main.pch.d36"30616CC6-BA92-466C-98AC-741564D24C58-
+
+CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s351298577.765440
+e351298578.365636
+r1
+xProcessPCH++
+x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch581ac41164f0b441^499c5d1264f0b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Assignment%204/seedFill/platform/main.pch0000000000000000^2888"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/seedFill-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/seedFill.build/Debug/seedFill.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hkwayynbfojzcufpqelgfjixzhvh/main.pch.d36"22EDF5A0-155D-44DA-96E9-17906862F990-
+
+CTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Assignment 4/seedFill/build/Debug/seedFill.app"
+r0
+

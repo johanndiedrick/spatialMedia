@@ -1,437 +1,0 @@
-TspatialMedia02
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Info.plist" platform/main.plist
-cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02" normal i386
-cCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/en.strings" spatialMedia02/../platform/en.strings
-cCpResource platform/main.pch build/Debug/spatialMedia02.app/Contents/Resources/main.pch
-cCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xib"
-cTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app"
-
-N/Developer/SDKs/MacOSX10.7.sdk
-c000000004E7AD70B00000000000000EE
-t1316673291
-s238
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
-c000000004E5454370000000000001E74
-t1314149431
-s7796
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
-c000000004E5454370000000000003F84
-t1314149431
-s16260
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Info.plist
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/PkgInfo
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/en.strings
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/main.nib
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/main.pch
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02.LinkFileList
-c000000004F2DBF860000000000000480
-t1328398214
-s1152
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o
-t2
-s0
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/platform/main.pch
-c000000004F2D358700000000000002E8
-t1328362887
-s744
-i<Cocoa/Cocoa.h>
-i<OpenGL/OpenGL.h>
-i<OpenGL/glu.h>
-i<string>
-i<vector>
-i<set>
-i<list>
-i<stack>
-i<map>
-i<algorithm>
-i<boost/any.hpp>
-i<boost/bind.hpp>
-i<boost/variant.hpp>
-i<boost/foreach.hpp>
-i<boost/function.hpp>
-i<boost/noncopyable.hpp>
-i<boost/tuple/tuple.hpp>
-i<boost/unordered_map.hpp>
-i<boost/shared_ptr.hpp>
-i<boost/thread.hpp>
-i<boost/filesystem.hpp>
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm
-c000000004F2D35870000000000001E1D
-t1328362887
-s7709
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/en.strings
-c000000004F2D3587000000000000002D
-t1328362887
-s45
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m
-c000000004F2D35870000000000000077
-t1328362887
-s119
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xib
-c000000004F2D35870000000000006176
-t1328362887
-s24950
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm
-c000000004F2D358700000000000012F4
-t1328362887
-s4852
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp
-c000000004F2D35870000000000000199
-t1328362887
-s409
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp
-c000000004F2D79F8000000000000095D
-t1328380408
-s2397
-
-N/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp
-c000000004F2D3F0A0000000000000506
-t1328365322
-s1286
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/any.hpp
-c000000004F26C3670000000000001969
-t1327940455
-s6505
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/bind.hpp
-c000000004F26C3680000000000000245
-t1327940456
-s581
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/filesystem.hpp
-c000000004F26C36900000000000004AE
-t1327940457
-s1198
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/foreach.hpp
-c000000004F26C369000000000000ACC7
-t1327940457
-s44231
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/function.hpp
-c000000004F26C3690000000000000864
-t1327940457
-s2148
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/noncopyable.hpp
-c000000004F26C37200000000000003F6
-t1327940466
-s1014
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/shared_ptr.hpp
-c000000004F26C375000000000000021B
-t1327940469
-s539
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/thread.hpp
-c000000004F26C3780000000000000347
-t1327940472
-s839
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/tuple/tuple.hpp
-c000000004F26C3790000000000000B2C
-t1327940473
-s2860
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/unordered_map.hpp
-c000000004F26C37A0000000000000226
-t1327940474
-s550
-
-N/pocode/libraries/Boost/boost_1_45_0/boost/variant.hpp
-c000000004F26C37A0000000000000373
-t1327940474
-s883
-
-N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth
-t2
-s0
-
-N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth
-t2
-s0
-
-N/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth
-t2
-s0
-
-Nplatform/main.plist
-c000000004F2D358700000000000003E2
-t1328362887
-s994
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm"
-r0
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m"
-r0
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm"
-r0
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp"
-r0
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp"
-r0
-
-CBuild AST from "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp"
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3c33f105f7ddb441^c1012106f7ddb441^---0#1#0#--18"Check dependencies36"807814A7-A1A2-4B74-94A4-91C5772123C7-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091026.727998
-e350091029.044768
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp8543bb12f7ddb441^ef740b15f7ddb441^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp0000000000000000^3302"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o spatialMedia02/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/AppConfig.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o"36"624D4C38-0CCF-49EE-A3EA-32C6B58AE20C-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091023.446725
-e350091025.694150
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mmec85720ff7ddb441^92b2b111f7ddb441^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm0000000000000000^3530"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o spatialMedia02/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/AppDelegate.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o"36"DF1D1A56-2C5D-4AB7-8DFE-88892EA47DE1-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s350091023.407949
-e350091023.445336
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.mc590680ff7ddb441^cd01720ff7ddb441^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/../platform/main.m0000000000000000^3429"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o spatialMedia02/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.m" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o"36"0BFC24FE-FE6F-4CCD-AAAC-FA9AC474A85C-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091024.693311
-e350091026.726688
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mmcfa0b110f7ddb441^310aba12f7ddb441^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm0000000000000000^3535"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o spatialMedia02/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/poOpenGLView.mm" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o"36"D6321603-735A-49F8-B36F-46478A4303F3-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091028.029239
-e350091030.104090
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp9d9e0714f7ddb441^61a91a16f7ddb441^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/smImage.cpp0000000000000000^3292"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o spatialMedia02/smImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/smImage.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o"36"69C43942-34A0-4714-8187-26EB8221F738-
-
-CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091025.695465
-e350091028.027887
-r1
-xCompileC
-xbuild/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp492bb211f7ddb441^03230714f7ddb441^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp0000000000000000^3342"CompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o spatialMedia02/spatialMedia02App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch -MMD -MT dependencies -MF "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.d" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/spatialMedia02App.cpp" -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o"36"5DD44214-C45C-4590-9492-CD0A80FF3872-
-
-CCompileXIB "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xib"
-s350091030.524414
-e350091034.486678
-r1
-xCompileXIB
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xib
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Compiling /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xibc2518616f7ddb441^a0a87c1af7ddb441^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/../platform/main.xib0000000000000000^671"CompileXIB spatialMedia02/../platform/main.xib    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/main.nib" "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/spatialMedia02/../platform/main.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"3B316555-3613-4CCB-950E-AC449014633E-
-
-CCopyStringsFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/en.strings" spatialMedia02/../platform/en.strings
-s350091030.516294
-e350091030.659311
-r1
-xCopyStringsFile
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/en.strings
-xspatialMedia02/../platform/en.strings
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy spatialMedia02/../platform/en.strings043d8416f7ddb441^06d7a816f7ddb441^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/spatialMedia02/../platform/en.strings0000000000000000^517"CopyStringsFile build/Debug/spatialMedia02.app/Contents/Resources/en.strings spatialMedia02/../platform/en.strings    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources" -- spatialMedia02/../platform/en.strings36"1EC491BF-6254-46DD-B889-8DBB9742B9AF-
-
-CCpResource platform/main.pch build/Debug/spatialMedia02.app/Contents/Resources/main.pch
-s350091030.516784
-e350091030.523235
-r1
-xCpResource
-xplatform/main.pch
-xbuild/Debug/spatialMedia02.app/Contents/Resources/main.pch
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/spatialMedia02.app/Contents/Resources/main.pch57608416f7ddb441^b2f48516f7ddb441^---0#0#0#-19%DVTDocumentLocation2@183"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources/main.pch00f4f0d5dcffdf42^596"CpResource platform/main.pch build/Debug/spatialMedia02.app/Contents/Resources/main.pch    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/platform/main.pch" "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Resources"36"7B3CF6C5-F7E7-46C1-9C03-4D890C6FF271-
-
-CLd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02" normal i386
-s350091030.111882
-e350091030.507493
-r1
-xLd
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02
-xnormal
-xi386
-old: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Link /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02dcb91c16f7ddb441^d9eb8116f7ddb441^-283"ld: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.1(21%IDEActivityLogMessage2@269"Direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-350091030#0#283#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1142"Ld build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02 normal i386    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -L/pocode/libraries/pocode "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -filelist "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02.LinkFileList" -mmacosx-version-min=10.6 -lpocode_d /usr/lib/libsqlite3.0.dylib -framework Cocoa -framework ApplicationServices -framework OpenGL -framework CoreVideo -framework QTKit -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02"36"48C7E5AE-97AF-44E1-8FE8-A22F6F7C521B-
-
-CProcessInfoPlistFile "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Info.plist" platform/main.plist
-s350091014.135190
-e350091014.145113
-r1
-xProcessInfoPlistFile
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Info.plist
-xplatform/main.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Process platform/main.plist6dae2206f7ddb441^03252506f7ddb441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/platform/main.plist0000000000000000^621"ProcessInfoPlistFile build/Debug/spatialMedia02.app/Contents/Info.plist platform/main.plist    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    builtin-infoPlistUtility platform/main.plist -genpkginfo "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app/Contents/Info.plist"36"A6D6E1B2-39E6-4F24-AEDE-E69A2491804A-
-
-CProcessPCH /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/spatialMedia02-fbuupswjalpxdueyhvitjizstxmp/Index/PrecompiledHeaders/main-bsqyqnzhdjrhepcckdhbadbfhqam_ast/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s350091014.154193
-e350091015.872866
-r1
-xProcessPCH
-x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth
-xplatform/main.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch70952706f7ddb441^1574df07f7ddb441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/platform/main.pch0000000000000000^3224"ProcessPCH /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctxdmtbulnlyyabmjvzytluodsck/main.pch.d36"964E8617-64F6-4A33-84D7-0C234B111277-
-
-CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/spatialMedia02-fbuupswjalpxdueyhvitjizstxmp/Index/PrecompiledHeaders/main-btmyaphffvuwhjbtqgfypwveikez_ast/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /Users/johanndiedrick/Library/Developer/Xcode/DerivedData/spatialMedia02-fbuupswjalpxdueyhvitjizstxmp/Index/PrecompiledHeaders/main-hjwuiogqtznheobyrxffrsyfctaa_ast/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091015.874169
-e350091024.691965
-r1
-xProcessPCH++
-x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth
-xplatform/main.pch
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch32e9df07f7ddb441^7d24b110f7ddb441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/platform/main.pch0000000000000000^3094"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-annmczzstyhctcbizqezglklzqjf/main.pch.d36"401C5260-E427-4433-98C1-1C2BB403EC4C-
-
-CProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s350091014.153425
-e350091023.406372
-r1
-xProcessPCH++
-x/var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth
-xplatform/main.pch
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pcha9692706f7ddb441^fa08680ff7ddb441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/johanndiedrick/Documents/Tisch/Courses/Spatial%20Media/Assignments/Image%20Processing/spatialMedia02b/platform/main.pch0000000000000000^3290"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-generated-files.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-own-target-headers.hmap" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-all-target-headers.hmap" -iquote "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/spatialMedia02-project-headers.hmap" -iquote/pocode/libraries/pocode "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/include" -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources/i386" "-I/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/spatialMedia02.build/Debug/spatialMedia02.build/DerivedSources" "-F/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug" -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/platform/main.pch" -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-dziznspeemjuepatvifcikvmdxcb/main.pch.d36"9169C0A1-73CA-4BAE-B889-A5D5DF830F6B-
-
-CTouch "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app"
-s350091034.494937
-e350091034.500869
-r1
-xTouch
-x/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Touch /Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app19c57e1af7ddb441^594c801af7ddb441^---0#0#0#--311"Touch build/Debug/spatialMedia02.app    cd "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b"    /usr/bin/touch -c "/Users/johanndiedrick/Documents/Tisch/Courses/Spatial Media/Assignments/Image Processing/spatialMedia02b/build/Debug/spatialMedia02.app"36"153FFE04-6F59-41E1-9BCD-8EAF76FB72B3-
-
